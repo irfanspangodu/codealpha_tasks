@@ -45,16 +45,6 @@ No external API integration is used.
 
 ---
 
-## Project Structure
-image-gallery/
-├── index.html
-├── css/
-│ └── style.css
-└── js/
-└── script.js
-
----
-
 ## How to Run
 1. Download or clone the project folder.
 2. Open the `index.html` file in any modern web browser.
