@@ -29,7 +29,7 @@ A basic calculator that performs standard arithmetic operations with a clean and
 
 ---
 
-## Task 4 : Music Player
+## Task 3 : Music Player
 A simple music player that allows users to play audio files and control playback.
 
 ### Features
