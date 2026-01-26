@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', system-ui, sans-serif;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item.active {
+    font-weight: 500;
+}
